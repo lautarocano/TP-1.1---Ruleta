@@ -12,7 +12,7 @@ def calcVP(results):
 	return c/len(results)
 
 iteraciones = 1000
-numSim = 5
+numSim = 7
 
 fr = []
 vp = []
